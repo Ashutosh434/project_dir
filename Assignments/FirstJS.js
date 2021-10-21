@@ -1,0 +1,1 @@
+// Empty JS file can be connected to the html and css pages if changes are made to html page
